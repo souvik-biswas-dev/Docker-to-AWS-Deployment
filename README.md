@@ -6,7 +6,7 @@ A full-stack task management application with Docker containerization and AWS de
 
 TaskFlow is a modern task management application consisting of:
 - **Backend**: REST API built with Node.js, Express, and MongoDB
-- **Frontend**: React-based UI with responsive design
+- **Frontend**: React-based UI
 
 ## 🏗️ Project Structure
 
